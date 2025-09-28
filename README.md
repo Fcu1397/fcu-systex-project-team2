@@ -119,7 +119,7 @@ npm -v
 
 步驟 A — 用 IntelliJ 開啟專案
 1. File -> Open...
-   - 選擇專案根目錄（例如：C:\Users\jianf\OneDrive\Desktop\FCU精誠專題\fcu-systex-project-team2），按 OK。
+   - 選擇專案根目錄（例如：C:\...\fcu-systex-project-team2），按 OK。
    - 或直接選 `backend/pom.xml` 來只匯入後端 Maven 專案。
 2. 若 IntelliJ 偵測到 `pom.xml`，會詢問是否匯入 Maven project，選「Import」或「Enable Auto-Import」。
 3. 若沒有自動匯入：
